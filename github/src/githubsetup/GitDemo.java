@@ -8,6 +8,7 @@ public class GitDemo {
 		System.out.println(" Welcome to GitHub!!!");
 		
 		float b = 10.10f;
+		int a = 15;
 		
 		
 		
